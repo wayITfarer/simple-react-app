@@ -1,0 +1,19 @@
+{
+  "name": "git-react",
+  "version": "1.0.0",
+  "description": "Simple React file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayITfarer/simple-react-app.git"
+  },
+  "author": "Sergey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayITfarer/simple-react-app/issues"
+  },
+  "homepage": "https://github.com/wayITfarer/simple-react-app#readme"
+}
