@@ -12,7 +12,8 @@ With Git
 ```
 
 Without Git
-
+```
 Download Zip file
 > npm install
 > npm start
+```
