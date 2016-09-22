@@ -17,10 +17,10 @@ module.exports = {
     }]
   },
   resolve: {
-    extentions: ['', '.js', '.jsx']
+    extensions: ['', '.js', '.jsx']
   },
   devServer: {
-    historyAppFallback: true,
-    contentBase: '/'
+    historyApiFallback: true,
+    contentBase: './'
   }
 }
